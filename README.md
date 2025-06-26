@@ -3,7 +3,7 @@
 
 
 
-## ⚙️ Tech Stac
+## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
 * **Vite** – Lightning-fast build tool
