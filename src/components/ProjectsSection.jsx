@@ -8,7 +8,7 @@ const projects = [
     image: "promptforage img.png",
     tags: ["TypeScript", "TailwindCSS", "Vite+React"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/kushgit07?tab=repositories",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "workwise img.png",
     tags: ["Javascript", "Vite+React","TailwindCSS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/kushgit07?tab=repositories",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "pacerquest img.png",
     tags: ["Next.js", "Node.js", "Typescript"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/kushgit07?tab=repositories",
   },
 ];
 
