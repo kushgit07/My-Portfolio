@@ -8,7 +8,7 @@ const projects = [
     image: "promptforage img.png",
     tags: ["TypeScript", "TailwindCSS", "Vite+React"],
     demoUrl: "#",
-    githubUrl: "https://github.com/kushgit07?tab=repositories",
+    githubUrl: "https://github.com/kushgit07/PromptForge",
   },
   {
     id: 2,
@@ -17,8 +17,8 @@ const projects = [
       "WORKWISE is a EMS(Employee management system) where admin can assign any task to its employees and employees are able to see and work on the task as per their deadline",
     image: "workwise img.png",
     tags: ["Javascript", "Vite+React","TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/kushgit07?tab=repositories",
+    demoUrl: "https://work-wise-sepia.vercel.app/",
+    githubUrl: "https://github.com/kushgit07/WorkWise",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "pacerquest img.png",
     tags: ["Next.js", "Node.js", "Typescript"],
     demoUrl: "#",
-    githubUrl: "https://github.com/kushgit07?tab=repositories",
+    githubUrl: "https://github.com/kushgit07/PacerQuest",
   },
 ];
 
