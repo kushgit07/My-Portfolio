@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra%20Sisodia_Resume.pdf"
+                href="https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra_Sisodia_Resume-3.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV

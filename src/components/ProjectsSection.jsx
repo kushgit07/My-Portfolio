@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "PromptForage",
     description: "An intelligent prompt engineering tool that automatically applies proven frameworks (RSTI, TCREI, TFCDC) to transform simple inputs into sophisticated, effective prompts",
-    image: "promptforage img.png",
+    image: "promptforage.png",
     tags: ["TypeScript", "TailwindCSS", "Vite+React"],
     demoUrl: "#",
     githubUrl: "https://github.com/kushgit07/PromptForge",
@@ -15,7 +15,7 @@ const projects = [
     title: "WorkWise",
     description:
       "WORKWISE is a EMS(Employee management system) where admin can assign any task to its employees and employees are able to see and work on the task as per their deadline",
-    image: "workwise img.png",
+    image: "workwise.png",
     tags: ["Javascript", "Vite+React","TailwindCSS"],
     demoUrl: "https://work-wise-sepia.vercel.app/",
     githubUrl: "https://github.com/kushgit07/WorkWise",
@@ -25,7 +25,7 @@ const projects = [
     title: "Pacer Quest",
     description:
       "PACER Quest is an AI-powered interactive learning game that converts text into gamified flashcards using the PACER (Procedural, Analogous, Conceptual, Evidence, Reference) enrichment method",
-    image: "pacerquest img.png",
+    image: "pacerquest.png",
     tags: ["Next.js", "Node.js", "Typescript"],
     demoUrl: "#",
     githubUrl: "https://github.com/kushgit07/PacerQuest",
